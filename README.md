@@ -1,13 +1,16 @@
+<!---
 - 👋 Hi, I’m @manjotgujral
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 <!---
 manjotgujral/manjotgujral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="23px">, I’m @manjotgujral 
 
 :computer:**Tech Stack**
 
@@ -46,3 +49,5 @@ You can click the Preview link to take a look at your changes.
 <img alt="Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
 </p>
+
+<img align="right" alt="GIF" src="https://github.com/manjotgujral/manjotgujral/blob/main/code.gif" width="500" height="320" />
