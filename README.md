@@ -50,4 +50,17 @@ You can click the Preview link to take a look at your changes.
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
 </p>
 
+<b>⚙️GitHub Analytics</b>
+<a href="https://github.com/manjotgujral">
+
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjotgujral&theme=github_dark" alt="Manjot Gujral GitHub Stats"/>
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjotgujral&theme=github_dark" alt="Manjot Gujral GitHub Stats"/>
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manjotgujral&theme=github_dark" alt="Manjot Gujral GitHub Stats"/>
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjotgujral&theme=github_dark" alt="Manjot Gujral GitHub Stats"/>
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manjotgujral&theme=github_dark" alt="Manjot Gujral GitHub Stats"/>
+
+ 
+</a>
+
+
 <img align="right" alt="GIF" src="https://github.com/manjotgujral/manjotgujral/blob/main/code.gif" width="500" height="320" />
